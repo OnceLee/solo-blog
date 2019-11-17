@@ -10,7 +10,7 @@ Shadow 的个人博客
 
 ### 最新
 
-* [世界，你好！](https://ltc.shadowmoon.online/hello-solo)
+* [世界，你好！](http://ltc.shadowmoon.online:8080/hello-solo)
 
 
 
